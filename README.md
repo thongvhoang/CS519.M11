@@ -1,5 +1,7 @@
 # CS519.M11
-## Giới thiệu môn học
-Môn học hướng về việc trang bị cho sinh viên những kiến thức cơ bản về khoa học và nghiên cứu khoa học nhằm mục đích nâng cao chất lượng của các đề cương và các luận văn tốt nghiệp. Qua các thí dụ cụ thể, các tiến trình trong nghiên cứu khoa học được bổ sung bởi những mô hình và lý thuyết để bồi dưỡng cho sinh viên về phương pháp thực dụng trong nghiên cứu khoa học: cách đặt vấn đề khoa học; phương pháp giải quyết các bài toán trong tin học; áp dụng các thủ thuật sáng tạo trong các bài toán tin học; các phương pháp suy luận, tư duy giả thuyết khoa học; cách viết bài báo khoa học, và sau cùng là các vấn đề liên quan đến đạo đức của người làm khoa học.
-### Đôi nét về tác giả
-Tôi là Võ Hoàng Thông, sinh viên ngành Khoa học Dữ liệu, khóa 2018. Lĩnh vực nghiên cứu của tôi hiện tại là intelligent transportation system, smart mobility, and computer vision in smart city.
+## Course introduction
+The course aims to equip students with the basic knowledge of science and scientific research in order to improve the quality of graduate thesis and dissertations. Through specific examples, models and theories supplement processes in scientific research to train students on pragmatic methods in scientific research: how to pose scientific problems; methods of solving problems in informatics; apply creative tricks to computer problems; reasoning methods, scientific hypothetical thinking; how to write scientific articles, and finally, issues related to the ethics of scientists.
+### About the members of the group
+1. Võ Hoàng Thông, Data Science student class 2018. <br/>
+2. Lâm Gia Huy, Data Science student class 2018. <br/>
+3. Nguyễn Ngân Linh, Data Science student class 2018. <br/>
