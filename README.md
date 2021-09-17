@@ -14,3 +14,5 @@ Tên nhóm: THL
 2. Lâm Gia Huy, sinh viên ngành Khoa học Dữ liệu khóa 2018. <br/>
 3. Nguyễn Ngân Linh, sinh viên ngành Khoa học Dữ liệu khóa 2018. <br/>
 
+Nhóm tác giả đến từ Trường Đại học Công nghệ Thông tin ĐHQG-HCM.
+
