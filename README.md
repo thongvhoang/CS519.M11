@@ -29,7 +29,7 @@ Q3.4 - GÓP Ý CHO PHƯƠNG PHÁP GIẢNG DẠY
 - Học đi đôi với hành.
 
 Q4.1.1 - 5W1H - TÌM HIỂU </br>
-Tìm hiểu về 5W1H và viết tóm tắt trong file 5W1H.md lưu trên GitHub Repos của nhóm
+Tìm hiểu về 5W1H và viết tóm tắt trong file [5W1H.md](https://github.com/thongvhoang/CS519.M11/blob/master/5W1H.md) lưu trên GitHub Repos của nhóm
 
 ## Tài liệu tham khảo
 - Sách tham khảo: 
