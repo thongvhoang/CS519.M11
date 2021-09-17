@@ -7,6 +7,7 @@ Môn học hướng về việc trang bị cho sinh viên những kiến thức 
     - [The craft of research, Fourth Edition](https://github.com/thongvhoang/CS519.M11/blob/master/The_Craft_of_Research_Fourth_Edition.pdf)
 - Khởi nghiệp và triệu phú: [Link bài viết](https://vnexpress.net/khoi-nghiep-va-trieu-phu-4279807.html)
 - Nobel Vật lý 2014: Đi tìm nàng công chúa xanh dương: [Link bài viết](https://tuoitre.vn/nobel-vat-ly-2014%C2%A0di-tim-nang-cong-chua-xanh-duong-659146.htm)
+- Nghiên cứu khoa học: Trình độ học sinh phổ thông ngang Tiến sĩ? [Link bài viết](https://vietnamnet.vn/vn/giao-duc/khoa-hoc/nghien-cuu-khoa-hoc-trinh-do-hoc-sinh-pho-thong-ngang-tien-si-723452.html)
 
 ### Về chúng tôi
 Tên nhóm: THL
