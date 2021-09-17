@@ -20,6 +20,25 @@ Gồm có 2 phần chính:
 + Báo cáo chi tiết doc (3-5 trang)
 + Điểm khuyến khích
 
+## Bài giảng
+- GIỚI THIỆU MÔN HỌC </br>
+        Mục tiêu: </br>
+        - Giới thiệu các khái niệm, thuật ngữ trong NCKH. </br> 
+        - Giới thiệu và thực hành các kỹ năng NCKH. </br>
+        - Phát triển một đề cương NCKH có thể dùng cho
+        đề tài NCKH-SV khóa luận tốt nghiệp. </br>
+        </br>
+        Các nội dung: </br>
+        - Tư duy phản biện (critical thinking) </br>
+        - Tư duy tính toán (computational thinking) </br>
+        - Kỹ năng đặt câu hỏi </br>
+        - Kỹ năng tìm kiếm, xác định nguồn tài liệu tin cậy </br>
+        - Kỹ năng dùng mindmap </br>
+        - Kỹ năng đọc bài báo KH </br>
+        - Kỹ năng trình bày </br>
+        - Kỹ năng viết paragraph </br>
+        - Kỹ năng viết đề cương: mục tiêu → nội dung → phương pháp </br>
+
 ## Quá trình
 Q1.1 - Tự giới thiệu
 - Họ và tên: Võ Hoàng Thông
