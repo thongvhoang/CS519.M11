@@ -4,7 +4,7 @@ Môn học hướng về việc trang bị cho sinh viên những kiến thức 
 ## Tài liệu tham khảo
 - Sách tham khảo: 
     - [The craft of research, Third Edition](https://github.com/thongvhoang/CS519.M11/blob/master/The_Craft_of_Research.pdf)
-    - [The craft of research, Fourth Edition](https://github.com/thongvhoang/CS519.M11/blob/master/The Craft of Research, Fourth Edition.pdf)
+    - [The craft of research, Fourth Edition](https://github.com/thongvhoang/CS519.M11/blob/master/The_Craft_of_Research_Fourth_Edition.pdf)
 
 ### Về chúng tôi
 Tên nhóm: THL
