@@ -9,7 +9,28 @@ Q1.1 - Tự giới thiệu
 - Định hướng nghề nghiệp: Research Scientist
 - Chia sẻ, kết nối với mình qua facebook nha :))) https://www.facebook.com/thongvo####/ </br>
 
-#CS519.M11
+Q3.1 - VÌ SAO BẠN CHỌN MÔN HỌC NÀY
+- Kỹ năng nghiên cứu và phương pháp luận cho việc nghiên cứu khoa học.
+- Các bước để viết một bài báo khoa học đúng chuẩn một nhà khoa học.
+- Tư duy suy luận và cách đặt giả thuyết khoa học như một nhà khoa học thực thụ.
+
+Q3.2 - BẠN MONG ĐỢI HỌC VÀ LÀM ĐƯỢC GÌ SAU KHI HỌC XONG MÔN HỌC NÀY
+- Các kỹ năng nghiên cứu khoa học của một nhà khoa học.
+- Hiểu tường tận quá trình làm một đề tài nghiên cứu khoa học từ tìm tìm tài liệu, đọc paper, viết literature review, cho đến thực nghiệm và sản phẩm là bài báo.
+
+Q3.3 - HÃY ĐẶT CÂU HỎI VỀ MÔN HỌC NÀY
+- Tại sao sinh viên phải biết phương pháp luận về nghiên cứu khoa học ?
+- Sinh viên cần chuẩn bị những gì về mặt tư duy và thái độ để có phương pháp luận như một nhà khoa học ?
+- Một nghiên cứu khoa học như thế nào được gọi là đúng chuẩn về phương pháp luận ?
+
+Q3.4 - GÓP Ý CHO PHƯƠNG PHÁP GIẢNG DẠY
+- Tăng cường tương tác giữa sinh viên và giảng viên.
+- Những ví dụ gợi mở gần gũi trong đời sống mô tả cho phần lý thuyết. Ví dụ như hình ảnh, bài giảng video.
+- Học đi đôi với hành.
+
+Q4.1.1 - 5W1H - TÌM HIỂU </br>
+Tìm hiểu về 5W1H và viết tóm tắt trong file 5W1H.md lưu trên GitHub Repos của nhóm
+
 ## Tài liệu tham khảo
 - Sách tham khảo: 
     - [The craft of research, Third Edition](https://github.com/thongvhoang/CS519.M11/blob/master/The_Craft_of_Research.pdf)
