@@ -69,6 +69,9 @@ Q3.4 - GÓP Ý CHO PHƯƠNG PHÁP GIẢNG DẠY
 Q4.1.1 - 5W1H - TÌM HIỂU </br>
 Tìm hiểu về 5W1H và viết tóm tắt trong file [5W1H.md](https://github.com/thongvhoang/CS519.M11/blob/master/5W1H.md) lưu trên GitHub Repos của nhóm
 
+Q4.2 - 5-SENTENCE PARAGRAPH </br>
+Tìm hiểu về 5 Sentence Paragraph và viết tóm tắt trong file [5SentenceParagraph.md](5SentenceParagraph.md) lưu trên GitHub Repos của nhóm.
+
 ## Tài liệu tham khảo
 - Sách tham khảo: 
     - [The craft of research, Third Edition](https://github.com/thongvhoang/CS519.M11/blob/master/The_Craft_of_Research.pdf)
