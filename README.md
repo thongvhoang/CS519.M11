@@ -38,7 +38,7 @@ Gồm có 2 phần chính:
         - Kỹ năng trình bày </br>
         - Kỹ năng viết paragraph </br>
         - Kỹ năng viết đề cương: mục tiêu → nội dung → phương pháp </br>
-- RESEARCH EVALUATION - DE-MYSTIFYING GOOD RESEARCH AND GOOD PAPERS: (Đọc tại đây)[De-Mystifying Good Research and Good Papers (repost).pdf] </br>
+- RESEARCH EVALUATION - DE-MYSTIFYING GOOD RESEARCH AND GOOD PAPERS: [Đọc tại đây](De-Mystifying Good Research and Good Papers (repost).pdf) </br>
 ## Quá trình
 Q1.1 - Tự giới thiệu
 - Họ và tên: Võ Hoàng Thông
