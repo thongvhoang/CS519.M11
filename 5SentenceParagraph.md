@@ -8,15 +8,15 @@
 ## Các bước thực hiện 
 Bước 1: Động não và tìm chủ đề cần viết (Brainstorm & Think of a topic) </br>
 Bước 2: Lên dàn ý (outline) </br>
-Bước 3: Triển khai và tổ chức các ý thành một đoạn văn</br>
+Bước 3: Triển khai và tổ chức các ý thành một đoạn văn<br>
 
     `CÁCH TỔ CHỨC MỘT ĐOẠN VĂN.` </br>
     `Mô hình hiệu quả của một Paragraph: P – E – E`
 
-    `P = Make the point = What do I want to say? – general idea` </br>
-    `E = Explain it = How can I explain it? – reasons` </br>
-    `E = Give an example = Can I think of any examples?` </br>
-</br>
+    `P = Make the point = What do I want to say? – general idea` <br>
+    `E = Explain it = How can I explain it? – reasons` <br>
+    `E = Give an example = Can I think of any examples?` <br>
+<br>
 Bước 4: Bắt đầu viết </br>
 Bước 5: Kiểm tra lại sau khi viết
 </br>
