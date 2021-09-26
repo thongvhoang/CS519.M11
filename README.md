@@ -38,6 +38,7 @@ Gồm có 2 phần chính:
         - Kỹ năng trình bày </br>
         - Kỹ năng viết paragraph </br>
         - Kỹ năng viết đề cương: mục tiêu → nội dung → phương pháp </br>
+- RESEARCH vs SCIENTIFIC RESEARCH vs SCIENTIFIC METHOD: [Đọc tại đây](https://github.com/thongvhoang/CS519.M11/blob/master/RESEARCH%20vs%20SCIENTIFIC%20RESEARCH%20vs%20SCIENTIFIC%20METHOD.md)
 - RESEARCH EVALUATION : </br>
     - DE-MYSTIFYING GOOD RESEARCH AND GOOD PAPERS: [Đọc tại đây](https://github.com/thongvhoang/CS519.M11/blob/master/De-Mystifying%20Good%20Research%20and%20Good%20Papers%20(repost).pdf) </br>
         Source: https://bigaidream.gitbooks.io/tech-blog/content/2014/de-mystifying-good-research.html </br>
