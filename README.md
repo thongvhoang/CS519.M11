@@ -42,6 +42,7 @@ Gồm có 2 phần chính:
 - RESEARCH - CÁC THUẬT NGỮ: [Đọc tại đây](https://github.com/thongvhoang/CS519.M11/blob/master/RESEARCH%20-%20C%C3%81C%20THU%E1%BA%ACT%20NG%E1%BB%AE.md)
 - TYPE OF SCIENTIFIC RESEARCH  - KHCB vs KHUD: [Đọc tại đây](https://github.com/thongvhoang/CS519.M11/blob/master/TYPE%20OF%20SCIENTIFIC%20RESEARCH%20%20-%20KHCB%20vs%20KHUD.md)
 - HOW TO LEARN - JOHN VŨ - TIẾN HOÁ TRONG MÙA DỊCH: [Đọc tại đây](https://vnexpress.net/tien-hoa-trong-mua-dich-4273974.html)
+- HOW TO LEARN - HỌC NHƯ THẾ NÀO CHO HIỆU QUẢ: [Đọc tại đây](https://zingnews.vn/video-gs-truong-nguyen-thanh-tu-van-cach-hoc-de-lam-viec-voi-robot-post922606.html)
 - RESEARCH EVALUATION : </br>
     - DE-MYSTIFYING GOOD RESEARCH AND GOOD PAPERS: [Đọc tại đây](https://github.com/thongvhoang/CS519.M11/blob/master/De-Mystifying%20Good%20Research%20and%20Good%20Papers%20(repost).pdf) </br>
         Source: https://bigaidream.gitbooks.io/tech-blog/content/2014/de-mystifying-good-research.html </br>
