@@ -1,0 +1,12 @@
+# Khoa học cơ bản vs Khoa học ứng dụng
+
+Để phân biệt giữa hai thực thể thì chúng ta cần phải có tiêu chí. Theo tôi thấy, có thể dùng 3 tiêu chí sau đây để tạm phân biệt thế nào là khoa học cơ bản và thế nào là khoa học ứng dụng: động cơ nghiên cứu, sản phẩm nghiên cứu, và giá trị nội tại. Dĩ nhiên, có thể nghĩ đến vài tiêu chí khác nữa, nhưng tôi nghĩ 3 tiêu chí này là khá đầy đủ để phân định.
+
+Về tiêu chí thứ nhất, động cơ của KHCB là mở rộng tri thức con người. Tất cả hoạt động trong KHCB chỉ nhắm vào mục tiêu tri thức chứ không có gì khác hơn. Có những nhà khoa học tiêu ra cả đời chỉ để theo đuổi tìm hiểu cấu trúc của một phân tử, mà họ có khi không biết thông tin đó sẽ ứng dụng cho cái gì. Còn khoa học ứng dụng thì có động cơ chính là ứng dụng tri thức, biến đổi hoặc cải tiến phương pháp, hay giải quyết một vấn đề thực tế. Khoa học cơ bản phát hiện ra gen, thì khoa học ứng dụng có thể phân tích xem gen đó có liên quan đến bệnh tật hay không, và nếu có thì có thể can thiệp để giảm nguy cơ mắc bệnh. Khoa học ứng dụng cũng có thể là những nghiên cứu thực tế hơn như cải tiến một phương pháp hiện hành cho một điều kiện mới.
+
+Tiêu chí thứ hai để phân biệt KHCB và KHUD là sản phẩm nghiên cứu. Sản phẩm của KHCB là tri thức mới mang tính lí thuyết và dữ liệu mới. Các nhà khoa học cơ bản không biết công trình và kết quả của họ sẽ ứng dụng cho cái gì. Họ có thể kiểm định một lí thuyết mới, phát triển một phương pháp mới, hay có nhiều khi phát hiện một cái mới hoàn toàn ngẫu nhiên (chẳng hạn như phát hiện X quang, penicollin và gen LRP5). Khoa học ứng dụng thì sản xuất ra công nghệ và tri thức thực tế. Còn KHƯD là những công trình nghiêng về ứng dụng những tri thức hiện hành để có những kết quả cho một mục đích cụ thể. Theo cách hiểu này thì kĩ thuật (engineering) là một khoa học ứng dụng. Nghiên cứu sản xuất ra thuốc mới, phát triển phương pháp phân tích hàng triệu SNP trong hệ gen, v.v. cũng được xem là khoa học ứng dụng.
+
+Tiêu chí thứ ba là khái niệm "internal goods", tôi tạm gọi là giá trị nội tại. Một cách ngắn gọn, giá trị nội tại là những giá trị bao hàm trong hành động thực tiễn. Đối với khoa học cơ bản, giá trị nội tại hiểu thế giới chung quanh. Đối với khoa học ứng dụng, giá trị nội tại là thay đổi thế giới (hoặc gìn giữ không cho thay đổi). Dự án Human Genome Project chẳng hạn là một công trình nhằm thu thập tri thức về con người (và một mô hình cho các sinh vật), và đó chính là giá trị nội tại.
+
+
+Theo blog GS. Nguyễn Văn Tuấn
