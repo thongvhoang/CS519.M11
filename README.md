@@ -87,6 +87,7 @@ Tìm hiểu về 5 Sentence Paragraph và viết tóm tắt trong file [5Sentenc
 - Khởi nghiệp và triệu phú: [Link bài viết](https://vnexpress.net/khoi-nghiep-va-trieu-phu-4279807.html)
 - Nobel Vật lý 2014: Đi tìm nàng công chúa xanh dương: [Link bài viết](https://tuoitre.vn/nobel-vat-ly-2014%C2%A0di-tim-nang-cong-chua-xanh-duong-659146.htm)
 - Nghiên cứu khoa học: Trình độ học sinh phổ thông ngang Tiến sĩ? [Link bài viết](https://vietnamnet.vn/vn/giao-duc/khoa-hoc/nghien-cuu-khoa-hoc-trinh-do-hoc-sinh-pho-thong-ngang-tien-si-723452.html)
+- TRI THỨC THÔNG THƯỜNG vs TRI THỨC KHOA HỌC: [Đọc tại đây](https://github.com/thongvhoang/CS519.M11/blob/master/TRI%20TH%E1%BB%A8C%20TH%C3%94NG%20TH%C6%AF%E1%BB%9CNG%20vs%20TRI%20TH%E1%BB%A8C%20KHOA%20H%E1%BB%8CC.md)
 
 ### Về chúng tôi
 Tên nhóm: THL
