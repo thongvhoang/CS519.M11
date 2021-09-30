@@ -56,7 +56,11 @@ Gồm có 2 phần chính:
             3. Types of Peer Review: Single Blind Review, Double Blind Review, Triple Blind Review, etc </br>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Vấn đề Conflict of Interest </br>
     Đọc thêm tại đây: </br>
-        - (Springer PeerReview)[Springer-PeerReview.png] sadf
+        - Springer Peer Review:
+        ![Springer PeerReview](Springer-PeerReview.png)
+        - Wiley Peer Review:
+        ![Wiley Peer Review](Wiley-Peer-Review-Process.png)
+
 ## Quá trình
 Q1.1 - Tự giới thiệu
 - Họ và tên: Võ Hoàng Thông
