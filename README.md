@@ -90,11 +90,11 @@ Tìm hiểu về 5 Sentence Paragraph và viết tóm tắt trong file [5Sentenc
 - TRI THỨC THÔNG THƯỜNG vs TRI THỨC KHOA HỌC: [Đọc tại đây](https://github.com/thongvhoang/CS519.M11/blob/master/TRI%20TH%E1%BB%A8C%20TH%C3%94NG%20TH%C6%AF%E1%BB%9CNG%20vs%20TRI%20TH%E1%BB%A8C%20KHOA%20H%E1%BB%8CC.md)
 - GỐC VÀ NGHĨA CỦA CÁC TỪ KHOA HỌC, CÔNG NGHỆ VÀ KỸ THUẬT: [Link bài viết](https://www.vnu.edu.vn/btdhqghn/?C1991/N12677/Goc-va-nghia-cua-cac-tu-khoa-hoc,-cong-nghe-va-ky-thuat.htm)
 
-### Về chúng tôi
+## Về chúng tôi
 Tên nhóm: THL
 1. Võ Hoàng Thông, sinh viên ngành Khoa học Dữ liệu khóa 2018. <br/>
-2. Lâm Gia Huy, sinh viên ngành Khoa học Dữ liệu khóa 2018. <br/>
-3. Nguyễn Ngân Linh, sinh viên ngành Khoa học Dữ liệu khóa 2018. <br/>
+2. [Lâm Gia Huy](https://github.com/huylgia/CS519.M11), sinh viên ngành Khoa học Dữ liệu khóa 2018. <br/>
+3. [Nguyễn Ngân Linh](https://github.com/tteokl/CS519.M11), sinh viên ngành Khoa học Dữ liệu khóa 2018. <br/>
 
 Nhóm tác giả đến từ Trường Đại học Công nghệ Thông tin ĐHQG-HCM.
 
