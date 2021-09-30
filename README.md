@@ -61,6 +61,12 @@ Gồm có 2 phần chính:
         - Wiley Peer Review:
         ![Wiley Peer Review](Wiley-Peer-Review-Process.png)
         - [What is peer review?](https://www.elsevier.com/reviewers/what-is-peer-review)
+        - [Scrutinizing science: Peer review](https://undsci.berkeley.edu/article/howscienceworks_16)
+        - [In scientific journals, what is meant by "peer review"?](https://www.quora.com/In-scientific-journals-what-is-meant-by-peer-review)
+        - [The NIPS experiment](http://blog.mrtz.org/2014/12/15/the-nips-experiment.html)
+        - Bình duyệt đồng nghiệp: [Link](https://www.lypham.net/?p=1113)
+        - Type of peer review: [Link](https://authorservices.wiley.com/Reviewers/journal-reviewers/what-is-peer-review/types-of-peer-review.html)
+        - Exploring the Peer Review Process: [Link](https://www.wiley.com/network/researchers/being-a-peer-reviewer/exploring-the-peer-review-process)
         
 
 ## Quá trình
