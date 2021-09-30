@@ -60,6 +60,8 @@ Gồm có 2 phần chính:
         ![Springer PeerReview](Springer-PeerReview.png)
         - Wiley Peer Review:
         ![Wiley Peer Review](Wiley-Peer-Review-Process.png)
+        - [What is peer review?](https://www.elsevier.com/reviewers/what-is-peer-review)
+        
 
 ## Quá trình
 Q1.1 - Tự giới thiệu
