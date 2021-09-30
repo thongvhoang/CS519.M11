@@ -46,7 +46,17 @@ Gồm có 2 phần chính:
 - RESEARCH EVALUATION : </br>
     - DE-MYSTIFYING GOOD RESEARCH AND GOOD PAPERS: [Đọc tại đây](https://github.com/thongvhoang/CS519.M11/blob/master/De-Mystifying%20Good%20Research%20and%20Good%20Papers%20(repost).pdf) </br>
         Source: https://bigaidream.gitbooks.io/tech-blog/content/2014/de-mystifying-good-research.html </br>
-    - 
+    - BÌNH DUYỆT NGANG HÀNG - PEER REVIEW PROCESS: </br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Peer Review Process là gì và được áp dụng thế nào trong việc bình duyệt các bài báo KH hiện nay? </br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Các mặt trái/hạn chế của Peer Review? Có thật sự công bằng, có thật sự là mô hình tốt nhất? </br>
+        - Câu chuyện của PageRank, SIFT </br>
+        - Câu chuyện của Yann LeCun và sự ra đời của top conference ICLR - OpenReview </br> 
+        
+        &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+            3. Types of Peer Review: Single Blind Review, Double Blind Review, Triple Blind Review, etc </br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Vấn đề Conflict of Interest </br>
+    Đọc thêm tại đây: </br>
+        - (Springer PeerReview)[Springer-PeerReview.png] sadf
 ## Quá trình
 Q1.1 - Tự giới thiệu
 - Họ và tên: Võ Hoàng Thông
