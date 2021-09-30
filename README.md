@@ -67,6 +67,10 @@ Gồm có 2 phần chính:
         - Bình duyệt đồng nghiệp: [Link](https://www.lypham.net/?p=1113)
         - Type of peer review: [Link](https://authorservices.wiley.com/Reviewers/journal-reviewers/what-is-peer-review/types-of-peer-review.html)
         - Exploring the Peer Review Process: [Link](https://www.wiley.com/network/researchers/being-a-peer-reviewer/exploring-the-peer-review-process)
+    - XẾP HẠNG TẠP CHÍ - HỘI NGHỊ KH:
+        - TIÊU CHÍ XÉT DUYỆT TẠP CHÍ KHOA HỌC CỦA SCOPUS VÀ ISI: [Link](https://vnuhcm.edu.vn/doi-ngoai_34306864/tieu-chi-xet-duyet-tap-chi-khoa-hoc-cua-scopus-va-isi/323433316864.html)
+        - DANH MỤC CÁC TẠP CHÍ KHOA HỌC ĐƯỢC XẾP HẠNG: [Link](https://github.com/thongvhoang/CS519.M11/blob/master/PHAN%20LOAI%20TAP%20CHI%20THEO%20CHUAN%20ISI%2C%20SCOPUS.pdf)
+        - Quy định của Quỹ phát triển KH & CN quốc gia (NAFOSTED): [Link](https://www.hcmus.edu.vn/component/content/article?id=2128:quy-dinh-cua-quy-phat-trien-kh-cn-quoc-gia-nafosted&catid=249&Itemid=437)
         
 
 ## Quá trình
