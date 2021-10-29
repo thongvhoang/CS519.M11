@@ -80,7 +80,7 @@ Gồm có 2 phần chính:
     - Chín lý do cho công bố quốc tế: [CS519x.TuanNV.9LyDoCongBoQT.pdf](CS519x.TuanNV.9LyDoCongBoQT.pdf)
     - Vì sao công bố quốc tế của Việt Nam còn ít? [Link](https://vnexpress.net/vi-sao-cong-bo-quoc-te-cua-viet-nam-con-it-3632089.html)
     - Vì sao khó công bố quốc tế? [Link](http://hanoimoi.com.vn/ban-in/Khoa-hoc/554509/vi-sao-kho-cong-bo-quoc-te)
-    - 
+    - Cách viết báo cáo khoa học cho các tập san khoa học quốc tế [Link](http://tonghoiyhoc.vn/cach-viet-bao-cao-khoa-hoc-cho-cac-tap-san-khoa-hoc-quoc-te.htm)
 ## Quá trình
 Q1.1 - Tự giới thiệu
 - Họ và tên: Võ Hoàng Thông
