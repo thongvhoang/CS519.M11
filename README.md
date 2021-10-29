@@ -78,7 +78,8 @@ Gồm có 2 phần chính:
     - Công bố quốc tế: Phải là đích đến: [Link](https://tiasang.com.vn/-quan-ly-khoa-hoc/Cong-bo-quoc-te-Phai-la-dich-den-9390)
     - Đánh giá Nghiên cứu cơ bản: Công bố quốc tế- tiêu chí quan trọng nhất: [Link](https://tiasang.com.vn/-dien-dan/danh-gia-nghien-cuu-co-ban-cong-bo-quoc-te-tieu-chi-quan-trong-nhat-162)
     - Chín lý do cho công bố quốc tế: [CS519x.TuanNV.9LyDoCongBoQT.pdf](CS519x.TuanNV.9LyDoCongBoQT.pdf)
-
+    - Vì sao công bố quốc tế của Việt Nam còn ít? [Link](https://vnexpress.net/vi-sao-cong-bo-quoc-te-cua-viet-nam-con-it-3632089.html)
+    
 ## Quá trình
 Q1.1 - Tự giới thiệu
 - Họ và tên: Võ Hoàng Thông
