@@ -73,6 +73,7 @@ Gồm có 2 phần chính:
         - Quy định của Quỹ phát triển KH & CN quốc gia (NAFOSTED): [Link](https://www.hcmus.edu.vn/component/content/article?id=2128:quy-dinh-cua-quy-phat-trien-kh-cn-quoc-gia-nafosted&catid=249&Itemid=437)
 - RESEARCH PUBLICATIONS - CÔNG BỐ KHOA HỌC VÀ ĐÁNH GIÁ NGHIÊN CỨU: [RESEARCH PUBLICATIONS - CÔNG BỐ KHOA HỌC VÀ ĐÁNH GIÁ NGHIÊN CỨU.md](https://github.com/thongvhoang/CS519.M11/blob/master/RESEARCH%20PUBLICATIONS%20-%20C%C3%94NG%20B%E1%BB%90%20KHOA%20H%E1%BB%8CC%20V%C3%80%20%C4%90%C3%81NH%20GI%C3%81%20NGHI%C3%8AN%20C%E1%BB%A8U.md)
     - Đánh giá định lượng kết quả nghiên cứu khoa học, Hồ Tú Bảo, Trường Khoa học Tri thức, Viện Khoa học và Công nghệ Tiên tiến Nhật Bản: [CS519x.BaoHT.DanhgiaNghiencuu.pdf](CS519x.BaoHT.DanhgiaNghiencuu.pdf), [CS519x.BaoHT.1A.DanhgiaNghiencuuSlides.pdf](CS519x.BaoHT.1A.DanhgiaNghiencuuSlides.pdf).
+    - Góp ý sau khi đọc bài “Đánh giá nghiên cứu cơ bản: Công bố quốc tế” – tiêu chí quan trọng nhất”: [CS519x.BaoHT.danhgiaNCCB.pdf](CS519x.BaoHT.danhgiaNCCB.pdf)
      
 
 ## Quá trình
