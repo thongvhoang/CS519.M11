@@ -81,6 +81,7 @@ Gồm có 2 phần chính:
     - Vì sao công bố quốc tế của Việt Nam còn ít? [Link](https://vnexpress.net/vi-sao-cong-bo-quoc-te-cua-viet-nam-con-it-3632089.html)
     - Vì sao khó công bố quốc tế? [Link](http://hanoimoi.com.vn/ban-in/Khoa-hoc/554509/vi-sao-kho-cong-bo-quoc-te)
     - Cách viết báo cáo khoa học cho các tập san khoa học quốc tế [Link](http://tonghoiyhoc.vn/cach-viet-bao-cao-khoa-hoc-cho-cac-tap-san-khoa-hoc-quoc-te.htm)
+    - Công bố quốc tế, niềm tự hào nên lùi vào quá vãng [Link](https://khoahocphattrien.vn/chinh-sach/truong-dai-hoc-bach-khoa-ha-noi-chuyen-doi-mo-hinh-de-toi-uu-tiem-luc/2021102112094561p1c785.htm)
 ## Quá trình
 Q1.1 - Tự giới thiệu
 - Họ và tên: Võ Hoàng Thông
