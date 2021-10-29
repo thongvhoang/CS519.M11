@@ -75,8 +75,8 @@ Gồm có 2 phần chính:
     - Đánh giá định lượng kết quả nghiên cứu khoa học, Hồ Tú Bảo, Trường Khoa học Tri thức, Viện Khoa học và Công nghệ Tiên tiến Nhật Bản: [CS519x.BaoHT.DanhgiaNghiencuu.pdf](CS519x.BaoHT.DanhgiaNghiencuu.pdf), [CS519x.BaoHT.1A.DanhgiaNghiencuuSlides.pdf](CS519x.BaoHT.1A.DanhgiaNghiencuuSlides.pdf).
     - Góp ý sau khi đọc bài “Đánh giá nghiên cứu cơ bản: Công bố quốc tế” – tiêu chí quan trọng nhất”: [CS519x.BaoHT.danhgiaNCCB.pdf](CS519x.BaoHT.danhgiaNCCB.pdf)
     - Đánh giá Nghiên cứu cơ bản: Công bố quốc tế - tiêu chí quan trọng nhất: [CS519x.Đánh giá Nghiên cứu cơ bản_ Công bố quốc tế- tiêu chí quan trọng nhất](CS519x.Đánh giá Nghiên cứu cơ bản_ Công bố quốc tế- tiêu chí quan trọng nhất)
-    - Công bố quốc tế: Phải là đích đến: (Link)[https://tiasang.com.vn/-quan-ly-khoa-hoc/Cong-bo-quoc-te-Phai-la-dich-den-9390]
-    - Đánh giá Nghiên cứu cơ bản: Công bố quốc tế- tiêu chí quan trọng nhất: (Link)[https://tiasang.com.vn/-dien-dan/danh-gia-nghien-cuu-co-ban-cong-bo-quoc-te-tieu-chi-quan-trong-nhat-162]
+    - Công bố quốc tế: Phải là đích đến: [Link](https://tiasang.com.vn/-quan-ly-khoa-hoc/Cong-bo-quoc-te-Phai-la-dich-den-9390)
+    - Đánh giá Nghiên cứu cơ bản: Công bố quốc tế- tiêu chí quan trọng nhất: [Link](https://tiasang.com.vn/-dien-dan/danh-gia-nghien-cuu-co-ban-cong-bo-quoc-te-tieu-chi-quan-trong-nhat-162)
     - 
 
 ## Quá trình
